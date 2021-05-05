@@ -9,6 +9,9 @@ import { ProductDescriptionComponent } from './product-description/product-descr
 import { ProductService } from './product.service';
 import { ProductTracklistingComponent } from './product-tracklisting/product-tracklisting.component';
 import { ProductListComponent } from './product-list/product-list.component';
+import { Routes } from '@angular/router';
+
+const aapRoutes:Routes=[];
 
 @NgModule({
   declarations: [
